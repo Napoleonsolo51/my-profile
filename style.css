@@ -101,3 +101,34 @@ a:hover{
 #movies td{
   padding: 10px;
 }
+
+#sidebar {
+  background-color: #800080;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  width: 120px;
+  text-align: center;
+}
+#page-content {
+  margin-left: 120px;
+}
+
+#sidebar a {
+    text-decoration: none;
+    font-size: 25px;
+    color: #788188;
+}
+
+#sidebar ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+#sidebar li {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
